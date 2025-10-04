@@ -1,4 +1,4 @@
-This is Live Demo    http://abhishek.is-great.net/?i=1
+This is Live Demo of this project   http://abhishek.is-great.net/?i=1
 
 Portfolio with Contact Form (PHP + MySQL + PHPMailer)
 
