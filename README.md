@@ -13,6 +13,7 @@ Works perfectly on both desktop and mobile screens
 
 portfolio/
 │
+
 ├── index.html          # Frontend HTML (includes contact form)
 ├── send_mail.php       # Backend PHP script (handles mail + DB insert)
 ├── PHPMailer/
