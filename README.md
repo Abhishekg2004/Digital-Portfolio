@@ -11,22 +11,18 @@ Works perfectly on both desktop and mobile screens
 
 1. Project Structure
 
-portfolio/
-│
-
+    portfolio/
+    │
     ├── index.html          # Frontend HTML (includes contact form)
-
     ├── send_mail.php       # Backend PHP script (handles mail + DB insert)
-
     ├── PHPMailer/
-
-│   ├── src/
-│   │   ├── PHPMailer.php
-│   │   ├── SMTP.php
-│   │   └── Exception.php
-│   └── composer.json
-│
-└── db.sql              # SQL file to create the database and table
+    │   ├── src/
+    │   │   ├── PHPMailer.php
+    │   │   ├── SMTP.php
+    │   │   └── Exception.php
+    │   └── composer.json
+    │
+    └── db.sql              # SQL file to create the database and table
 
 
 2. Database Setup
