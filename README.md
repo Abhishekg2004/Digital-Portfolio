@@ -8,7 +8,7 @@ Sends email notifications via Gmail SMTP (PHPMailer)
 Shows SweetAlert2 popups for success/loading/error
 Works perfectly on both desktop and mobile screens
 
-
+```
 1. Project Structure
 
     portfolio/
@@ -24,7 +24,7 @@ Works perfectly on both desktop and mobile screens
     │
     └── db.sql              # SQL file to create the database and table
 
-
+```
 2. Database Setup
 
 Open phpMyAdmin (default URL for XAMPP: http://localhost/phpmyadmin)
